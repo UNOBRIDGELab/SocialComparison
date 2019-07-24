@@ -1,5 +1,7 @@
 ## How are health metrics used to assess and compare projects? 
 
+This protocol explores social comparison (Festinger, 1954) in the design and use of open source health metrics.
+
 1. To what extent are you focused on understanding who your contributors are and what engages them?
 2. How would you describe the “relationship ecosystem” that’s at play when you are looking at projects you are involved with? 
 3. Do you think about contributors in your organization differently than contributors from outside your your organization? 
@@ -13,10 +15,10 @@
 11. When comparing your projects, what factors help you determine if the comparison is relevant?
 12. In what areas could another project influence your decisions? Do you use information about other projects to make decisions about project engagement?
 13. What factors can determine if a proposed change makes it into the project?
-
-Take a moment and think about potential Use Cases for community health metrics. These can be use cases that you have successfully used prior or even use cases that you believe would be helpful in the future.
  
-Use Case Questions
+### Use Case Questions
+Take a moment and think about potential Use Cases for community health metrics. These can be use cases that you have successfully used prior or even use cases that you believe would be helpful in the future.
+
 1. What question are you trying to answer?
 2. What is the Use Case Title?
 3. Why do you need this Use Case?
