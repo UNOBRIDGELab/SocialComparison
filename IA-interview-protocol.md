@@ -1,4 +1,4 @@
-## What types of information is used in the design of OSS? 
+## What types of information is used in the design of OSS health metrics? 
 
 This protocol explores context, knowledge, expertise, inspiration, and  information gathering (Eckert & Stacey, 2000) in the design of open source project health metrics.   
 
@@ -16,7 +16,7 @@ This protocol explores context, knowledge, expertise, inspiration, and  informat
 ### Individual Metrics
 At this time, the CHAOSS project is exploring metrics related to Project Growth, Maturity, and Decline, Project Diversity and Inclusion, Risk, and Value.  
 
-1. Of these categories, which one interests you the most? 
+1. Of these categories, which one interests you the most?  
 a. What are your thoughts on this metric category?  
 b. What individual metrics could help in its representation?  
 c. What could these metrics signal?  
