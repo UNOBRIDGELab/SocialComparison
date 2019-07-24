@@ -1,4 +1,4 @@
-## What types of information is used in the design of OSS health metrics? 
+## What types of information are used in the design of OSS health metrics? 
 
 This protocol explores context, knowledge, expertise, inspiration, and  information gathering (Eckert & Stacey, 2000) in the design of open source project health metrics.   
 
