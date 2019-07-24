@@ -32,7 +32,7 @@
 
 *	Open source participants want health metrics to evaluate their projects. 
 
-Nodes: 
+**Nodes:** 
 A-IA (Need to Evaluate) - Why Is measuring project health important?  
 
 ### Festinger Hypothesis II –
@@ -48,7 +48,7 @@ A-IA (Need to Evaluate) - Why Is measuring project health important?
 
 *	Open source projects that have clear goals and unique processes may not need to evaluate their health with other projects.
 
-Nodes:  
+**Nodes:**   
 Understanding – understanding of health   
 Goals – project goals  
 Unique – project uniqueness  
@@ -68,7 +68,7 @@ Unique – project uniqueness
 
 *“A person will be less attracted to situations where others are very divergent from him than to situations where others are close to him for both abilities and opinions”*
 
-Nodes:  
+**Nodes:**  
 K-SC (Comparison Relevance) - How relevant are comparisons?  
 Similar – projects are similar  
 Different – projects are different  
@@ -76,7 +76,7 @@ Engagement – Choose to engage with a project
 
 *“The existence of a discrepancy in a group with respect to opinion or abilities will lead to action on the part of members of that group to reduce discrepancy”*
 
-Nodes:  
+**Nodes:**  
 L-SC (Decisions) - How is social comparison used  to make decisions?  
 
 ### Festinger Hypothesis IV – 
@@ -84,7 +84,7 @@ L-SC (Decisions) - How is social comparison used  to make decisions?
 
 Open source participants do not use social comparison for a competitive understanding of health in open source ecosystems
 
-Nodes:  
+**Nodes:**  
 Competitive – comparing multiple projects for competitive purposes  
 Ecosystems – multiple projects and how they relate  
 
@@ -94,7 +94,7 @@ Ecosystems – multiple projects and how they relate
 
 * Open source participants views on health are malleable however changing a project to reflect these views may be difficult
 
-Nodes:  
+**Nodes:** 
 Change – changing a project due to health  
 L-SC (Decisions) - How is social comparison used  to make decisions?  
 
@@ -120,14 +120,14 @@ L-SC (Decisions) - How is social comparison used  to make decisions?
 
 *“An increase in the importance of an ability or an opinion, or an increase in its relevance to immediate behavior, will increase the pressure toward reducing discrepancies concerning that opinion or ability”*
 
-Nodes:  
+**Nodes:**   
 Uniformity – Standards, conformity, universal  
 
 *CVII-A “The stronger the attraction to the group the stronger will be the pressure towards uniformity concerning abilities and opinions within that group”*
 
 *CVII-B “The greater the relevance of the opinion or ability to the group, the stronger will be the pressure toward uniformity concerning that opinion or ability.*
 
-Nodes:  
+**Nodes:**   
 Exemplars – using other projects as a guide  
 J-SC (Project Guidance) - How are other projects used as exemplars?  
 H-IA (Success) - How is project health understood across projects?  
@@ -137,7 +137,7 @@ H-IA (Success) - How is project health understood across projects?
 
 * If projects are different, there is a tendency by open source participant to narrow the focus of comparison 
 
-Nodes:  
+**Nodes:**  
 Narrow focus – narrow focus of comparison  
 Similar – projects are similar  
 Different – projects are different  
@@ -145,7 +145,7 @@ Different – projects are different
 ### Festinger Hypothesis IX -
 *“When there is a range of opinion or ability in a group or ability in a group, the relative strength of the three manifestations of pressures toward uniformity will be different from those who are close to the mode of the group than those who are distant from the mode. Specifically, those close to the mode of the group will have stronger tendencies to change positions of the others, relatively weaker tendencies to narrow the range of comparison and much weaker tendencies to change their own position compared to those who are distant from the mode of the group”*
 
-Nodes:  
+**Nodes:** 
 Internal – mode of participant central  
 External – mode of the participant on edge  
 H-SC (Shared Definition of Good) - Do project leaders have a shared understanding of Project Health?  
