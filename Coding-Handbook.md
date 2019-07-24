@@ -1,9 +1,9 @@
 ## Social Comparison Handbook
 
 
-### Nodes & themes
+### Nodes & themes \*
 
-|Node or Theme|Definition|
+|**Node**|**Definition**|
 |---|---|
 | A-IA (Need to Evaluate) | Why Is measuring project health important? |
 | K-SC (Comparison Relevance)	| How relevant are comparisons? |
@@ -11,6 +11,7 @@
 | J-SC (Project Guidance)	| How are other projects used as exemplars? |
 | H-IA (Success) | How is project health understood across projects? |
 | H-SC (Shared Definition of Good) | Do project leaders have a shared understanding of Project Health? |
+|---|---|
 | Health	| understanding of health/success |
 | Goals	| project goals |
 | Similar	| projects are similar |
@@ -36,7 +37,6 @@
 
 Nodes: 
 A-IA (Need to Evaluate) - Why Is measuring project health important?
-
 
 **Festinger Hypothesis II –**
 *“To the extent that objective, non-social means are not available, people evaluate their opinions and abilities by comparison respectively with the opinions and abilities of others”*
