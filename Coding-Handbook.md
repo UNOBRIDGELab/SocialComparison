@@ -142,6 +142,8 @@ H-IA (Success) - How is project health understood across projects?
 
 Nodes:  
 Narrow focus – narrow focus of comparison  
+Similar – projects are similar  
+Different – projects are different  
 
 ### Festinger Hypothesis IX -
 *“When there is a range of opinion or ability in a group or ability in a group, the relative strength of the three manifestations of pressures toward uniformity will be different from those who are close to the mode of the group than those who are distant from the mode. Specifically, those close to the mode of the group will have stronger tendencies to change positions of the others, relatively weaker tendencies to narrow the range of comparison and much weaker tendencies to change their own position compared to those who are distant from the mode of the group”*
