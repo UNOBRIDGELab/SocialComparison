@@ -1,1 +1,1 @@
-# SocialComparison
+Social Comparison
