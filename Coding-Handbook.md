@@ -1,9 +1,6 @@
 ## Social Comparison Handbook
 
-
-### Nodes & themes \*
-
-|**Node**|**Definition**|
+|**Node\***|**Definition**|
 |---|---|
 | A-IA (Need to Evaluate) | Why Is measuring project health important? |
 | K-SC (Comparison Relevance)	| How relevant are comparisons? |
