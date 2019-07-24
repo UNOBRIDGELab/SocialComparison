@@ -30,7 +30,7 @@
 
 \* For information on where these terms were identified and how it relates to social comparison see the following sections
 
-**Festinger Hypothesis I -**
+### Festinger Hypothesis I -
 *“There exists in the human organism, a drive to evaluate his opinions and abilities”*
 
 *	Open source participants want health metrics to evaluate their projects. 
@@ -38,7 +38,7 @@
 Nodes: 
 A-IA (Need to Evaluate) - Why Is measuring project health important?
 
-**Festinger Hypothesis II –**
+### Festinger Hypothesis II –
 *“To the extent that objective, non-social means are not available, people evaluate their opinions and abilities by comparison respectively with the opinions and abilities of others”*
 
 *	Open source participants compare their projects to other projects to evaluate health
@@ -56,7 +56,7 @@ Understanding – understanding of health
 Goals – project goals
 Unique – project uniqueness
 
-**Festinger Hypothesis III –**
+### Festinger Hypothesis III –
 *“The tendency to compare oneself with some other specific person decreases as the difference between his opinion or ability and one’s own increases.”*
 
 *	Open source participants may be reluctant to use social comparison when the projects are different than theirs.
@@ -82,7 +82,7 @@ Engagement – Choose to engage with a project
 Nodes:
 L-SC (Decisions) - How is social comparison used  to make decisions?
 
-**Festinger Hypothesis IV –**
+### Festinger Hypothesis IV – 
 “There is a unidirectional drive upward in the case of abilities which is largely absent in opinions”
 
 Open source participants do not use social comparison for a competitive understanding of health in open source ecosystems
@@ -91,7 +91,7 @@ Nodes:
 Competitive – comparing multiple projects for competitive purposes
 Ecosystems – multiple projects and how they relate
 
-**Festinger Hypothesis V –**
+### Festinger Hypothesis V –
 
 *“There are non-social restraints which make it difficult or even impossible to change one’s ability. These non-social restraints are largely absent in opinions”*
 
@@ -101,14 +101,14 @@ Nodes:
 Change – changing a project due to health
 L-SC (Decisions) - How is social comparison used  to make decisions?
 
-**Festinger Hypothesis VI –**
+### Festinger Hypothesis VI –
 *“The cessation of comparison with others is accompanied by hostility or derogation to the extent that continued comparison with those persons implies unpleasant consequences”*
 
 * Open source participants may disagree or have negative opinions of projects where comparison is not or no longer relevant
 
 *CVI-A “Cessation of comparison with others will be accompanied by hostility or derogation in the case of opinion. In the case of abilities, this will not generally be true”* 
 
-**Festinger Hypothesis VII –**
+### Festinger Hypothesis VII –
 “Any factors which increase the importance of some particular group as a comparison group for some particular opinion or ability will increase the pressure toward uniformity concerning that ability or opinion within that group”
 
 * As relevance of comparison increases so does the likelihood of open source participants adopting standards or uniform process across projects
@@ -135,7 +135,7 @@ Exemplars – using other projects as a guide
 J-SC (Project Guidance) - How are other projects used as exemplars?
 H-IA (Success) - How is project health understood across projects?
 
-**Festinger Hypothesis VIII –**
+### Festinger Hypothesis VIII –
 *“If persons who are very divergent from one’s own opinion or ability are perceived as different from oneself on attributes consistent with the divergence, the tendency to narrow the range of comparability becomes stronger”*
 
 * If projects are different, there is a tendency by open source participant to narrow the focus of comparison 
@@ -143,7 +143,7 @@ H-IA (Success) - How is project health understood across projects?
 Nodes:
 Narrow focus – narrow focus of comparison 
 
-**Festinger Hypothesis IX -**
+### Festinger Hypothesis IX -
 *“When there is a range of opinion or ability in a group or ability in a group, the relative strength of the three manifestations of pressures toward uniformity will be different from those who are close to the mode of the group than those who are distant from the mode. Specifically, those close to the mode of the group will have stronger tendencies to change positions of the others, relatively weaker tendencies to narrow the range of comparison and much weaker tendencies to change their own position compared to those who are distant from the mode of the group”*
 
 Nodes:
